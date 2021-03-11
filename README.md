@@ -1,5 +1,5 @@
 # Treinamento_git
-Repositório para treinamentos de git. 
+Repositório para treinamentos de git. Links dos pdf upados no repositório como referências.
 
 
 1. git - guia prático 
