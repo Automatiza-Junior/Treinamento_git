@@ -15,3 +15,6 @@ https://fullcycle.com.br/git-e-github/
 3. Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar
 
 https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
+
+
+Link perfeito para aprender com exemplos práticos sobre como usar o git: https://githowto.com/pt-BR
